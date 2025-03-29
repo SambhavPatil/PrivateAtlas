@@ -32,7 +32,7 @@ Private Atlas is a mapping application that allows users to add landmarks, creat
 ## Contribution Guidelines
 Contributions are welcome! Please open an issue or submit a pull request for any enhancements or bug fixes.
 
-## link to view
+## View website here
 [Private Atlas](https://private-atlas-nmaylrbkc-sambhav-patils-projects.vercel.app)
 
 
