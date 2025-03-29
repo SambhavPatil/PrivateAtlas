@@ -13,6 +13,15 @@ export interface Route {
   coordinates: [number, number][];
 }
 
+export interface NavigationRoute extends Route {
+  distance: number;
+  segments: {
+    coordinates: [number, number][];
+    distance: number;
+    description: string;
+  }[];
+}
+
 export interface MapState {
   center: [number, number];
   zoom: number;
